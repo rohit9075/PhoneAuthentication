@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "379886952087",
+    "firebase_url": "https://phoneauthentication-acb86.firebaseio.com",
+    "project_id": "phoneauthentication-acb86",
+    "storage_bucket": "phoneauthentication-acb86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379886952087:android:2b1890ad46ce4b42",
+        "android_client_info": {
+          "package_name": "com.rohit.com.phoneauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379886952087-q2nsva5l6cfa1k02ld1oo8vfh5pj668d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rohit.com.phoneauthentication",
+            "certificate_hash": "122d8576880235a56fbcd336d2bf7bc79f1eb1ba"
+          }
+        },
+        {
+          "client_id": "379886952087-j56po1g3jjv4taltsr5il6e93eofapcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiiRAsNKd2v-82IPHhE_GHTmXX2Tpb4iQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379886952087-j56po1g3jjv4taltsr5il6e93eofapcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
